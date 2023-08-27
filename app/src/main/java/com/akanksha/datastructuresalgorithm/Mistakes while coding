@@ -4,4 +4,7 @@ DATE: 25-08-2023
 1. In solving second largest question, I did mistake of not mentioning properly arr[i] or i;
 example: where I had to mention largest I did mention arr[largest] because of which the code wasn't running.
 
-2.
+Date: 27-08-23
+
+2. While solving left rotate, I was trying to solve right rotate on LC and wondering why the solution
+ was wrong, since on doing right rotate logic has to be a bit different.
