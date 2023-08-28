@@ -8,3 +8,8 @@ Date: 27-08-23
 
 2. While solving left rotate, I was trying to solve right rotate on LC and wondering why the solution
  was wrong, since on doing right rotate logic has to be a bit different.
+
+ Date: 28-08-23
+3. While solving max consecutive ones, i should have used Math.max, but instead of that I trie to use
+by comparing max and count which lead to a wrong answer.
+Also I tried to return count if thats bigger but I should have returned Max instead.
